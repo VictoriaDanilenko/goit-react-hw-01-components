@@ -3,10 +3,10 @@ import styled from 'styled-components';
 const LiItem = styled.li`
   padding: 5px;
   width: calc(100% / 5);
-  background-color: grey;
+  background-color: #e2d7f8;
   transition: box-shadow 200ms linear;
   &:hover {
-    box-shadow: 4px 4px 9px 7px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 9px 7px rgba(34, 60, 80, 0.3);
   }
   .label,
   .percentage {

@@ -7,6 +7,8 @@ const WrapperStatistics = styled.section`
     width: 300px;
     margin: 0 auto;
     background-color: #ffffff;
+    border: 1px solid #b295ba;
+    border-radius: 5px;
   }
   .stat-list {
     display: flex;
